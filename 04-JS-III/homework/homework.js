@@ -269,6 +269,7 @@ function continueStatement(numero) {
       nuevoNumero = nuevoNumero + 2;
       array.push(nuevoNumero);
     }
+    
   }
   return array;
 }
